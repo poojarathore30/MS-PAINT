@@ -1,8 +1,8 @@
 # MS-PAINT
 ## MINI version OF MS Paint Just using Python and Tkinter
-### To get started:
-####   step 1) Clone this repository
-####   step 2) Run command "python PaintProgram.py" in terminal
+### To get started :
+####   step 1) Clone this repository.
+####   step 2) Run command "python PaintProgram.py" in terminal.
 ####   step 3) Draw , color ,paint ,Clear and Save your Work in png or jpeg format 
 ####   step 4) Happy Painting :)  
     
