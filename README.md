@@ -1,5 +1,5 @@
 # MS-PAINT ( mini )
-##  MINI version OF MS Paint Developed using Python and Tkinter
+>  MINI version OF MS Paint Developed using Python and Tkinter
 ### Quick Start 🎇 :
 ####   step 1) Clone this repository.
 ####   step 2) Run command "python PaintProgram.py " in terminal.
